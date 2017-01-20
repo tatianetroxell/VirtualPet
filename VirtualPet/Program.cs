@@ -10,6 +10,7 @@ namespace VirtualPet
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
