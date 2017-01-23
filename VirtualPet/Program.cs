@@ -10,6 +10,7 @@ namespace VirtualPet
     {
         static void Main(string[] args)
         {
+            //Virtual  Pet, it lets the user interact with a dog
             Console.WriteLine("Virtual Pet:");
             Console.WriteLine("      __");
             Console.WriteLine(" (___()'`;");
